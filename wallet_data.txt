@@ -1,0 +1,8 @@
+{
+  "address": "0xFAKEWALLET123",
+  "network": "base-sepolia",
+  "balance": 1000,
+  "dummy": true,
+  "wallet_id": "dummy-wallet-001",
+  "seed": "dummy-seed-123"
+}
