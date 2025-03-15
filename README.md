@@ -30,7 +30,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:yourusername/coinbase-cdp-agent.git
+   git clone git@github.com:vineethsaivs/coinbase-cdp-agent.git
    cd coinbase-cdp-agent
    ```
 
